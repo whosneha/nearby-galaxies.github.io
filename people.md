@@ -36,6 +36,12 @@ I am a second year Masters student working with Data Preview 1 (DP1) from the Ve
 
 You can find more about me on [LinkedIn](https://www.linkedin.com/in/pranav-sairam/).
 
+## Sneha Nair (Software Developer)
+<img align="right" src="{{ site.url }}/images/sneha.jpeg" width="200" height="200">
+I am a software developer working with Rubin Observatory data as part of the Canadian Data Intensive Analysis Pipeline (CANDIAPL) effort. I am developing two analysis pipeline tools, INJECT and SPECTRA, to support data-intensive astronomical research. SPECTRA is a spectral energy distribution (SED) fitting tool designed specifically for resolved star clusters observed with Rubin data, with support for complementary data from other sources. INJECT is a tool for evaluating star cluster detection methods by generating customizable synthetic clusters and allowing users to integrate their own detection algorithms to compare recovered measurements against known input values.
+
+You can find more about me on [LinkedIn](https://www.linkedin.com/in/sneha-nair-236515245/).
+
 # Recent alumni
 
 ## Adrien Hélias (PhD 2026)
